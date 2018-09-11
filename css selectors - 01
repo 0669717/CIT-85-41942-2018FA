@@ -2,7 +2,7 @@
 <head>
 <style>
 a {
-    color: hotpink;
+    color: pink;
 }
 
 a:link { 
