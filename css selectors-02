@@ -1,0 +1,66 @@
+
+<style type="text/css">
+	.TFtable{
+		width:70%; 
+		border-collapse:collapse; 
+	}
+	.TFtable td{ 
+		padding:28px; border:#4e95f4 5px solid;
+	}
+	/*BG*/
+	.TFtable tr{
+		background: #f4dced;
+	}
+	ODD Background Rows  
+	.TFtable tr:nth-child(odd){ 
+		background: ;
+	}
+	/*  EVEN Background Rows  */
+	.TFtable tr:nth-child(even){
+		background: #d8f8e4;
+	}
+</style>
+
+<table class="TFtable">
+	<tr><td>ONE</td><td>FIVE</td><td>NINE</td></tr>
+	<tr><td>TWO</td><td>SIX</td><td>TEN</td></tr>
+	<tr><td>THREE</td><td>SEVEN</td><td>ELEVEN</td></tr>
+	<tr><td>FOUR</td><td>EIGHT</td><td>TWELVE</td></tr>
+</table>
+
+<p><!DOCTYPE html>
+<html>
+<head>
+  <style>
+   
+    ul li:nth-child(n+3):nth-child(-n+7) {
+      outline: 1.5px solid #0ff;
+    }
+  </style>
+</head>
+<body>
+  <ul>
+    <li>Page 1</li>
+    <li>Page 2</li>
+    <li>Page 3</li>
+    <li>Page 4</li>
+    <li>Page 5</li>
+    <li>Page 6</li>
+    <li>Page 7</li>
+    <li>Page 8</li>
+    <li>Page 9</li>
+    <li>Page 10</li>
+  </ul></div>
+
+</ul>
+<div>LINE 1</div>
+<p>LINE 2</p>
+<div>LINE 3</div>
+<p>LINE 4</p>
+<b>LINE 5</b>
+<div>
+
+
+
+</body>
+</html><p>
