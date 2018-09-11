@@ -1,0 +1,42 @@
+<html>
+<head>
+<style>
+a {
+    color: hotpink;
+}
+
+a:link { 
+    background-color: blue;
+}
+
+/* visited link */
+a:visited {
+    color: White;
+}
+
+
+/* mouse over link */
+a:hover {
+    color: Yellow;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
+</style>
+</head>
+<body>
+
+<p><b><a href="https://www.youtube.com/" target="_blank">Youtube</a></b></p>
+
+
+<p><b><a href="https://www.facebook.com/" target="_blank">Facebook</a></b></p>
+
+
+<p><b><a href="https://twitter.com" target="_blank">Twitter</a></b></p>
+
+<p><b><a href="https://www.Hotmail.com/" target="_blank">Hotmail</a></b></p>
+
+</body>
+</html>
