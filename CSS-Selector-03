@@ -1,0 +1,16 @@
+
+<p><P>It's peaceful at the ocean, the perfect place to relax the mind and soul. <br>Oh, how wonderful to embrace the sounds of the waves and the winds gushing by.<BR>The perfect place to be to refresh the mind.<style>p::first-letter {text-decoration: underline;}
+p:first-line {color: #cc26a2;}<p><BR>p:first-of-type, p:first-line {
+  //styles 
+
+}<BR><BR><style type="text/css">
+    p { text-indent: 12px; margin: 0%; margin-top: 0%; margin-bottom: 0% }
+</style>
+<div> <P>Stop for a second to think before doing anything.<br>It prevents problems and issues, which leads to better outcome.<br>You never know how much you can do until you try, so never give up.<br<br><P>The world is a beautiful place to be part of.<br>However, not all things living whitin the world makes it perfect.<br>It takes every effort and input from everyone to make it a better place. <p>When life throws rocks at you, don't give up!<br>Pick yourself up and stand strong.<br>Success will only come when you fight your way through life.
+<style>
+p::first-letter{
+    font-size: 32px;
+    font-family: Verdana;
+    color: #47efff;
+}
+ </div>
